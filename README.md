@@ -1,0 +1,1 @@
+Explore the Job Hunter Website's source code! This React.js and Node.js project uses MongoDB for seamless job matching. Features include responsive design, skill-matching, secure auth, and efficient API testing. Contribute and enhance this platform! 🚀
